@@ -1,2 +1,2 @@
 # hello-github
-I'm WeiChauncey
+I'm WeiChauncey,i like computer grammer
